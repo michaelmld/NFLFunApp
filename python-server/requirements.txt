@@ -1,0 +1,4 @@
+# List of packages required to run python server 
+
+Flask==0.12.2
+nflgame
